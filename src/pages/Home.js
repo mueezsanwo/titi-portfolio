@@ -3,7 +3,7 @@ import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 import EmailIcon from "@material-ui/icons/Email";
 import GithubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
-import CV from "../assets/CV.docx";
+import CV from "../assets/CV.pdf";
 
 
 function Home() {
