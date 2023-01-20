@@ -7,7 +7,7 @@ function ProjectItem({ image, name, id, git, url, skills}) {
     return (
         <div
          className='projectItem'
-         onClick={() => {navigate("/project/" + id)}}
+         onClick={() => {navigate("/projects")}}
           
           >
            <div style={{backgroundImage: `url(${image})`}} className="bgImage" />

@@ -3,6 +3,7 @@ import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 import EmailIcon from "@material-ui/icons/Email";
 import GithubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
+import CV from "../assets/CV.docx";
 
 
 function Home() {
@@ -18,6 +19,7 @@ function Home() {
              <EmailIcon onClick={() => window.open("mailto:mueezsanwo@gmail.com", '_blank')}/>
              <GithubIcon onClick={() => window.open('https://github.com/mueezsanwo', '_blank')} />
              </div>
+             <a href={CV} download><button>Resume</button></a>
            </div> 
            <div className='skills'>
            <h2>About Me</h2>
