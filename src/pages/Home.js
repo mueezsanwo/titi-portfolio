@@ -23,8 +23,8 @@ function Home() {
            </div> 
            <div className='skills'>
            <h2>About Me</h2>
-            <p className='aboutp'> I am a front-end web developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. I enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary.With a passion for both personal growth and for software development, I attended Stutern coding bootcamp to learn new languages while sharpening existing skills.
-               I am ready to apply my passsion for coding to a talented engineering team to develop quality solutions.</p>
+            <p className='aboutp'> I am a front-end web developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. I enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and for software development, I attended Stutern coding bootcamp to learn new languages while sharpening existing skills.
+               I am ready to apply my passion for coding to a talented engineering team to develop quality solutions.</p>
            <h2> Skills</h2>
         <ol className="list">
           <li className="item">
