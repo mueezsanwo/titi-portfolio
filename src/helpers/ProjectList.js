@@ -26,9 +26,9 @@ export const ProjectList = [
     {
         name: "Netflix Clone",
         image: Project3,
-        skills: "React, Css, Node.js",
-        git: "",
-        url: "http://netflix-duplicate.netlify.app/"
+        skills: "React, TailwindCss, Node.js, TMDB API",
+        git: "https://github.com/mueezsanwo/netflix-clone",
+        url: "https://netflix-75f5c.web.app/"
     },
     {
         name: "Youtube Clone",
