@@ -11,12 +11,12 @@ function Footer() {
     return (
         <div className='footer'>
             <div className='socialMedia'>
-            <WhatsAppIcon onClick={() => window.open('https://wa.me/23481294220', '_blank')} />
-             <EmailIcon onClick={() => window.open("mailto:mueezsanwo@gmail.com", '_blank')}/>
-             <GithubIcon onClick={() => window.open('https://github.com/mueezsanwo', '_blank')} />
-             <LinkedInIcon  onClick={() => window.open("https://www.linkedin.com/in/mueez-sanwo-5a1918266/", '_blank')}/> 
+            <WhatsAppIcon onClick={() => window.open('https://wa.me/2348023430955', '_blank')} />
+             <EmailIcon onClick={() => window.open("mailto:majekodunmidamilola1516@gmail.com", '_blank')}/>
+             {/* <GithubIcon onClick={() => window.open('https://github.com/mueezsanwo', '_blank')} /> */}
+             <LinkedInIcon  onClick={() => window.open("https://www.linkedin.com/in/majekodunmi-damilola-9b9979202", '_blank')}/> 
             </div>
-            <p> &copy; 2022 MueezPortfolio.com</p>
+            <p> &copy; 2024 MajekPortfolio.com</p>
         </div>
     )
 }

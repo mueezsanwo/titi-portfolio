@@ -1,7 +1,7 @@
-import Project1 from "../assets/africardo.jpeg";
-import Project2 from "../assets/deliverycog.jpeg";
-import Project3 from "../assets/netflix.jpeg";
-import Project4 from '../assets/youtube.jpeg';
+import Project1 from "../assets/hr.jpeg";
+import Project2 from "../assets/pl.jpeg";
+import Project3 from "../assets/ex.jpeg";
+import Project4 from '../assets/covid.jpeg';
 import Project5 from '../assets/cryptonaija.jpeg';
 import Project6 from '../assets/weather.jpeg';
 import Project7 from '../assets/travel.jpeg';
@@ -9,53 +9,33 @@ import Project7 from '../assets/travel.jpeg';
 
 export const ProjectList = [
     {
-        name: "Africardo Landing Page",
+        name: "HR Analysis Dashboard",
         image: Project1,
-        skills: "Html, Css",
-        git: "https://github.com/mueezsanwo/africado-games",
-        url: "https://af-ricardo-game-world.netlify.app/"
+        skills: "PowerBi",
+        git: "https://github.com/MD-MAJEK/HR-DATA-ANALYSIS/tree/main",
+        data: "../assets/CV.pdf"
     },
     {
-        name: "DeliveryCog App",
+        name: "Premier League Data Analysis",
         image: Project2,
-        skills: "React, Tailwind Css, Node.Js",
-        git: "https://github.com/StuternHousemanship/DELIVERYCOG-Frontend-Project-Team1.1",
+        skills: "PowerBi",
+        git: "https://github.com/MD-MAJEK/Football-Analysis-/blob/main/README.md",
         url: "https://deliverycog-stutern.web.app/"
 
     },
     {
-        name: "Netflix Clone",
+        name: "Excel Sales Dashboard",
         image: Project3,
-        skills: "React, TailwindCss, Node.js, TMDB API",
-        git: "https://github.com/mueezsanwo/netflix-clone",
+        skills: "Excel",
+        git: "https://github.com/MD-MAJEK/superstore-analysis",
         url: "https://netflix-75f5c.web.app/"
     },
     {
-        name: "Youtube Clone",
+        name: "Covid-19 Analysis",
         image: Project4,
-        skills: "React, Css, material UI, RapidApi, Node.js",
-        git: "https://github.com/mueezsanwo/youtubeClone",
-        url: "https://clone-7e85d.web.app/"
+        skills: "Excel",
+        git: "https://github.com/MD-MAJEK/Covid-19-Analysis/blob/main/README.md",
+        url: "https://netflix-75f5c.web.app/"
     },
-    {
-        name: "CryptoNaija",
-        image: Project5,
-        skills: "React,Tailwind Css, Node.js, coingecko Api, firebase Auth",
-        git: "https://github.com/mueezsanwo/cryptonaija",
-        url: "https://cryptonaija-d8c35.web.app"
-    },
-    {
-        name: "WeatherApp",
-        image: Project6,
-        skills: "React, Css, Node.js, OpenWeatherApi",
-        git: "https://github.com/mueezsanwo/weather-app",
-        url: "https://weather-app-9ae37.web.app"
-    },
-    {
-        name: "Travel Landing Page",
-        image: Project7,
-        skills: "React, Css, Node.js",
-        git: "https://github.com/mueezsanwo/Travel-landingPage",
-        url: "https://travellandingpage-e3e35.web.app"
-    },
+    
 ]
