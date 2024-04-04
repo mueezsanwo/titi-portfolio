@@ -5,6 +5,7 @@ import GithubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
 import Resume from "../assets/resume.pdf";
 import Projects from './Projects';
+import CV from "../assets/CV.pdf"
 
 
 function Home() {
@@ -13,14 +14,14 @@ function Home() {
     return (
         <div className='home'>
            <div className='about'>
-             <h2>Hi, My Name is Majekodunmi Damilola</h2>
+             <h2>Hi, My Name is Hawawu Titilayo Adeshola</h2>
              <div className='prompt'>
              <p>A Data Analyst with a passion for learning and creating. </p>
-             <WhatsAppIcon onClick={() => window.open('https://wa.me/2348023430955', '_blank')} />
-             <EmailIcon onClick={() => window.open("mailto:majekodunmidamilola1516@gmail.com", '_blank')}/>
+             <WhatsAppIcon onClick={() => window.open('https://wa.me/2348033761423', '_blank')} />
+             <EmailIcon onClick={() => window.open("mailto:hawawutitilayo1997@gmail.com", '_blank')}/>
              {/* <GithubIcon onClick={() => window.open('https://github.com/mueezsanwo', '_blank')} /> */}
              </div>
-             <a href={Resume} download><button>Resume</button></a>
+             <a href={CV} download><button>Resume</button></a>
            </div> 
            <div className='skills'>
            <h2>About Me</h2>

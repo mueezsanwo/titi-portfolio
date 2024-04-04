@@ -11,12 +11,12 @@ function Footer() {
     return (
         <div className='footer'>
             <div className='socialMedia'>
-            <WhatsAppIcon onClick={() => window.open('https://wa.me/2348023430955', '_blank')} />
-             <EmailIcon onClick={() => window.open("mailto:majekodunmidamilola1516@gmail.com", '_blank')}/>
+            <WhatsAppIcon onClick={() => window.open('https://wa.me/2348033761423', '_blank')} />
+             <EmailIcon onClick={() => window.open("mailto:Hawawutitilayo1997@gmail.com", '_blank')}/>
              {/* <GithubIcon onClick={() => window.open('https://github.com/mueezsanwo', '_blank')} /> */}
-             <LinkedInIcon  onClick={() => window.open("https://www.linkedin.com/in/majekodunmi-damilola-9b9979202", '_blank')}/> 
+             <LinkedInIcon  onClick={() => window.open("https://www.linkedin.com/in/adeshola-hawawu-b70a0526b", '_blank')}/> 
             </div>
-            <p> &copy; 2024 MajekPortfolio.com</p>
+            <p> &copy; 2024 Portfolio.com</p>
         </div>
     )
 }
