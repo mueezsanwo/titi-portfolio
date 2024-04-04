@@ -3,7 +3,7 @@ import Project2 from "../assets/pl.jpeg";
 import Project3 from "../assets/ex.jpeg";
 import Project4 from '../assets/covid.jpeg';
 import Project5 from '../assets/film.jpeg';
-import Project6 from '../assets/applicants.jpeg.jpeg';
+import Project6 from '../assets/applicants.jpeg';
 import Project7 from '../assets/travel.jpeg';
 
 
